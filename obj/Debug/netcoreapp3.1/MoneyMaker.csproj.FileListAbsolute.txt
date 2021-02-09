@@ -1,0 +1,12 @@
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.deps.json
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.runtimeconfig.json
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.runtimeconfig.dev.json
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.dll
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp3.1/MoneyMaker.pdb
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.csprojAssemblyReference.cache
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.AssemblyInfoInputs.cache
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.AssemblyInfo.cs
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.dll
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.pdb
+/Users/jaylabullard/Desktop/Projects/CodeCademyProjects/C#/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp3.1/MoneyMaker.genruntimeconfig.cache
